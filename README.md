@@ -18,7 +18,7 @@ run it
 If you want to be able to run it in terminal whenever then you can add it to your /usr/local/bin
 
 ```bash
-sudo mv missing_photos_icrar.sh /usr/local/bin
+sudo cp missing_photos_icrar.sh /usr/local/bin/missing_photos
 ```
 
-Then you can just run it in a terminal as `missing_photos_icrar`.
+Then you can just run it in a terminal as `missing_photos`.
